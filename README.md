@@ -1,6 +1,6 @@
 # Textual-User-Interface
 
-C++ implementation of a simple TUI (Textual User Interface).
+C++ implementation of a simple TUI (Textual User Interface) using polymorphism.
 
 There are written a number of TUI elements, described below, that renders graphically to ASCII text.  
 All of them from a common **widget** abstract class.
